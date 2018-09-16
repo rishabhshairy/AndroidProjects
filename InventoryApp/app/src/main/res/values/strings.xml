@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_list_hint">Empty List</string>
+    <string name="product_name_title">Product Name</string>
+    <string name="price_title">Price</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="supplier_name_title">Supplier Name</string>
+    <string name="supplier_name_hint">Flipkart</string>
+    <string name="supplier_phone_title">Supplier Phone</string>
+    <string name="supplier_phone_hint">9876543210</string>
+    <string name="supplier_email_title">Email</string>
+    <string name="hint_email_address">abc@gmail.com</string>
+    <string name="image">Image</string>
+    <string name="select_image">Select Image</string>
+</resources>

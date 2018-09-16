@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/weatherLayout">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/weatherTextView"
+        android:gravity="fill"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weatherTextView"
+        android:layout_marginLeft="25sp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="300dp"
+        android:fontFamily="cursive"
+        android:id="@+id/checkButton"
+        android:text="Check Another"
+        android:textColor="?android:attr/textColorPrimaryNoDisable" />
+
+
+</RelativeLayout>

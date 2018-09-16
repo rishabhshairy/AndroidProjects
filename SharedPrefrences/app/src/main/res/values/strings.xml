@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Prefrences</string>
+    <string name="menu1">Settings</string>
+    <string name="menu2">Help</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialogMessage">Open Settings</string>
+</resources>
